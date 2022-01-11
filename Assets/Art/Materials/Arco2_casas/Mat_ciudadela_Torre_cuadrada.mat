@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7806741879497775138
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mat_ciudadela_Torre_cuadrada
+  m_Shader: {fileID: 4800000, guid: 15e013e0089bf8749b0cb340b60d29e4, type: 3}
+  m_ShaderKeywords: TCP2_SKETCH TCP2_SPECULAR TCP2_UV_NORMALS_FULL _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: bceb63bd24199cd4b9ab22b5690ece60, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 5d932152cd26b7a4f823f96671f2cf0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: a48f1f7b2dd690d409e420d627ebc410, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission1:
+        m_Texture: {fileID: 2800000, guid: b83a6ddbb41d066499475772d4dd0d2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionText:
+        m_Texture: {fileID: 2800000, guid: b83a6ddbb41d066499475772d4dd0d2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCapColor1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCapColor2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCapTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionCubemapColor1:
+        m_Texture: {fileID: 2800000, guid: a58bc4e13242af64ea1dc02bb96ff07a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SketchTexture:
+        m_Texture: {fileID: 2800000, guid: a0d03d906b6264d4c8c02b0ffd7bc8c2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularColor1:
+        m_Texture: {fileID: 2800000, guid: 22553fb7c55ac2d479a7f54b27be5366, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StylizedThreshold:
+        m_Texture: {fileID: 2800000, guid: 80d4e0bb88d600643823fbaf2f052995, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Albedo: 1
+    - _AlphaClip: 0
+    - _BandsCount: 3
+    - _BandsCountOtherLights: 3
+    - _Blend: 0
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _FresnelMax: 1.15
+    - _FresnelMin: 0.47
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _NormalsSource: 0
+    - _NormalsUVType: 0
+    - _OcclusionStrength: 1
+    - _OutlineMinWidth: 0
+    - _OutlineWidth: 0.1
+    - _OutlineZSmooth: 0
+    - _QueueOffset: 0
+    - _RampSmoothing: 0.5
+    - _RampSmoothingOtherLights: 0.432
+    - _RampThreshold: 0.478
+    - _RampThresholdOtherLights: 0.5
+    - _ReceiveShadows: 1
+    - _ReceiveShadowsOff: 1
+    - _ReflectionCubemapRoughness: 0.67
+    - _RimMaxVert: 1
+    - _RimMinVert: 0.5
+    - _ShadowLineSmoothing: 0.015
+    - _ShadowLineStrength: 1
+    - _ShadowLineThreshold: 0.5
+    - _SketchMax: 1
+    - _SketchMin: 0
+    - _SketchTexture_OffsetSpeed: 120
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularColor2: 1
+    - _SpecularHighlights: 1
+    - _SpecularShadowAttenuation: 0.25
+    - _SpecularSmoothness: 0.2
+    - _SpecularToonBands: 3
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _UseMatCap: 0
+    - _UseNormalMap: 1
+    - _UseReflections: 0
+    - _UseRim: 0
+    - _UseSketch: 1
+    - _UseSpecular: 1
+    - _UseTexturedThreshold: 0
+    - _UseWind: 0
+    - _WindSpeed: 0
+    - _WindStrength: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    - __BeginGroup_ShadowHSV: 0
+    - __EndGroup: 0
+    - __dummy__: 0
+    - _albedo_val: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 0, b: 1, a: 1}
+    - _Emission: {r: 2, g: 2, b: 2, a: 1}
+    - _EmissionColor: {r: 1.4980392, g: 1.4980392, b: 1.4980392, a: 1}
+    - _HColor: {r: 0.75, g: 0.75, b: 0.75, a: 1}
+    - _MatCapColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MatCapColor1: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColorVertex: {r: 4, g: 4, b: 4, a: 1}
+    - _ReflectionCubemapColor: {r: 1.4980392, g: 1.4980392, b: 1.4980392, a: 1}
+    - _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.5}
+    - _RimDirVert: {r: 0, g: 0, b: 1, a: 0}
+    - _SColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ShadowLineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _SpecularColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _WindDirection: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
