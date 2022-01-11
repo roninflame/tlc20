@@ -1,0 +1,22 @@
+{
+    "AutoNames": true,
+    "SubFolders": true,
+    "OverwriteConfig": false,
+    "LoadAllShaders": false,
+    "CustomOutputPath": "3rdPartyAssets\\JMO Assets\\Toony Colors Pro\\Shaders Generated\\User",
+    "LastImplementationExportImportPath": "F:/Documentos/Unity Projects/ProyectoPollo/Pollo_v1/Assets",
+    "OpenedFoldouts": [
+        "LIGHTING",
+        "SURFACE",
+        "STYLIZATION",
+        "SPECIAL EFFECTS",
+        "TRANSPARENCY/BLENDING",
+        "SHADER STATES",
+        "OPTIONS"
+    ],
+    "UseCustomFont": false,
+    "CustomFont": {
+        "instanceID": 0
+    },
+    "CustomFontInitialized": true
+}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 743d21be7654a164aba37e5aa14910d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuRP: {fileID: 11400000, guid: 23540b831ab455448b81d333bb56127a, type: 2}
+  - level01RP: {fileID: 11400000, guid: faabe64a9e90a154d9647be8fe4153fd, type: 2}
+  - level02RP: {fileID: 11400000, guid: f044a0bfdec81f04f9fb13848dbb616f, type: 2}
+  - level03RP: {fileID: 11400000, guid: 3024e918ebb5f3145bf580b69ea7bb51, type: 2}
+  - scoreBoardRP: {fileID: 11400000, guid: c15c060139c252547804ef7b3c3326f5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
