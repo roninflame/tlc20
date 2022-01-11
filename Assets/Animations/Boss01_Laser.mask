@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Boss01_Laser
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: base_master
+    m_Weight: 0
+  - m_Path: base_master/base
+    m_Weight: 0
+  - m_Path: base_master/base/Panel_superior
+    m_Weight: 0
+  - m_Path: base_master/base/Panel_inferior
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura/pecho
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura/pecho/cabeza
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura/pecho/cabeza/Mascara
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura/pecho/Hombrera_izq
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura/pecho/Hombrera_izq/Brazo_izq
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura/pecho/Hombrera_izq/Brazo_izq/AnteBraz_izq
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura/pecho/Hombrera_der
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura/pecho/Hombrera_der/Brazo_der
+    m_Weight: 0
+  - m_Path: base_master/base/cintura1/cintura/pecho/Hombrera_der/Brazo_der/AnteBraz_der
+    m_Weight: 0
+  - m_Path: Modelo
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_hombrera_izq
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_missile_launcher
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_canon2
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_braz_der
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_braz_izq1
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Motor7
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Motor6
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Motor5
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Motor4
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Motor3
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Motor2
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Motor1
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_soporte7
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Placa_compuerta_der
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Placa_compuerta_der1
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Arco_soporte
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Nave_back
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Motor
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_hombrera_der
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Celda_fontral
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Celda_trasera
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Arco_Canon1
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Arco_Canon3
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Arco_Canon
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Arco_Canon2
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_sSoporte_cruces
+    m_Weight: 0
+  - m_Path: Modelo/mdl_canon_rotulo
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_canon_rotulo1
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_canon_soporte
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Placa_body
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Placaizq
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Placa_der
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_pecho
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_cintura
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_cuerpo_soporte
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_cruces
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_placa_laser
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_laser_frontal
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_cabeza_boca
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_mascara_line1
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_mascara_line
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_mascara_line2
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_mascara_line3
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_cabeza
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_cabeza_peinado
+    m_Weight: 0
+  - m_Path: Modelo/Mdl_Roboss_Mascara
+    m_Weight: 0
+  - m_Path: Joint
+    m_Weight: 0
+  - m_Path: Joint/Base
+    m_Weight: 0
+  - m_Path: Joint/Base/Esotmago1
+    m_Weight: 0
+  - m_Path: Joint/Base/Esotmago1/Esotmago
+    m_Weight: 0
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho
+    m_Weight: 0
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/cuello
+    m_Weight: 0
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/cuello/cuello1
+    m_Weight: 0
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/Hombro_izq
+    m_Weight: 1
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/Hombro_izq/brazo_izq
+    m_Weight: 1
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/Hombro_izq/brazo_izq/Ante_brazo_izq
+    m_Weight: 1
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/Hombro_izq/brazo_izq/Ante_brazo_izq/Ante_brazo_punta_izq
+    m_Weight: 1
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/Hombro_der
+    m_Weight: 0
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/Hombro_der/brazo_der
+    m_Weight: 0
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/Hombro_der/brazo_der/Ante_brazo_der
+    m_Weight: 0
+  - m_Path: Joint/Base/Esotmago1/Esotmago/Pecho/Hombro_der/brazo_der/Ante_brazo_der/Ante_brazo_punta_der
+    m_Weight: 0
+  - m_Path: Joint/Motor_atras
+    m_Weight: 0
+  - m_Path: Joint/Motor_delantera
+    m_Weight: 0
+  - m_Path: Joint/Motor_delantera/Compuerta_1
+    m_Weight: 0
+  - m_Path: Joint/Motor_delantera/Compuerta_2
+    m_Weight: 0
