@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88f3d04186e64444aa57c07127e7a725, type: 3}
+  m_Name: Lvl01_SpaceCraftData5
+  m_EditorClassIdentifier: 
+  typeID: 5
+  damage: 1
+  health: 6
+  scoreValue: 300
+  windSpeed: 40
+  windStrength: 2
+  ammoAmount2: 0
+  fireRate2: 0
+  ammoAmount: 0
+  fireRate: 0
+  rotateToPlayer: 0.5
+  waitToFollowPlayer: 0.5
+  durationToFollowPlayer: 1.5

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6820fe7036ca4a74496aec75e70a8e0b, type: 3}
+  m_Name: ConversationsData
+  m_EditorClassIdentifier: 
+  Converstion_Eng:
+  - {fileID: 11400000, guid: c4cb0961c312bf146948f286ff6a2632, type: 2}
+  - {fileID: 11400000, guid: d8db9c976de04cc4b8ec9b73b8edfe32, type: 2}
+  Converstion_Spa:
+  - {fileID: 11400000, guid: d0e84afe65c568242ae49c51523a0f97, type: 2}
+  - {fileID: 11400000, guid: 9386411205393e94d9b07bb5c5121be1, type: 2}

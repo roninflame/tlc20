@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db747c9f7bfb5d0459d1e20b6301ae6b, type: 3}
+  m_Name: SPA_Lvl_01_B01
+  m_EditorClassIdentifier: 
+  conversationIndex: 0
+  description: Dialogue
+  dialogueList:
+  - characterName: 1
+    conversationBlock:
+    - <emotion=normal><speed=30>Broster, debes cruzar el campo de asteroides para
+      llegar al portal y<speed=10>...
+    - "<emotion=sad><speed=30>Ya recorde, tus compa\xF1eros tambien estan luchando"
+    - <emotion=happy><speed=30><b>Si puedes rescatalos y no mueras en el intento.</b>
+      Buena suerte
+  - characterName: 0
+    conversationBlock:
+    - '<emotion=normal><action=shake><speed=40>ENTENDIDO!!!<pause=1>
+
+      <emotion=angry><speed=30>Voy
+      en camino...'
+  - characterName: 1
+    conversationBlock:
+    - <emotion=happy><speed=30>Trata de no morir

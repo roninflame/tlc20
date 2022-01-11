@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db747c9f7bfb5d0459d1e20b6301ae6b, type: 3}
+  m_Name: ENG_Lvl_01_B01
+  m_EditorClassIdentifier: 
+  conversationIndex: 0
+  description: Dialogue
+  dialogueList:
+  - characterName: 1
+    conversationBlock:
+    - <emotion=normal><speed=30>Broster, you must cross the asteroid field to reach
+      the portal and<speed=10>...
+    - <emotion=sad><speed=30>I already remembered, your teammates are also fighting
+    - <emotion=happy><speed=30><b>If you can rescue them and don't die trying..</b>
+      Good luck
+  - characterName: 0
+    conversationBlock:
+    - '<emotion=normal><action=shake><speed=40>UNDERSTOOD!!!<pause=1>
+
+      <emotion=angry><speed=30>I''m
+      on my way...'
+  - characterName: 1
+    conversationBlock:
+    - <emotion=happy><speed=30>Try to not die

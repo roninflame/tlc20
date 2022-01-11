@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c0192476766c6d4b8e2a5766a12be06, type: 3}
+  m_Name: BroasterData
+  m_EditorClassIdentifier: 
+  characterName: 0
+  characterColor: {r: 0.97978336, g: 1, b: 0.08018869, a: 1}
+  characterNameColor: {r: 1, g: 0.9697046, b: 0, a: 1}
+  characterEmotion:
+    emotions:
+    - emotion: normal
+      sprite: {fileID: 21300000, guid: ba42557de36237d4da07bf7f5a1cbd90, type: 3}
+    - emotion: happy
+      sprite: {fileID: 21300000, guid: 2ca278d4dacd000479d774c82db3b9d3, type: 3}
+    - emotion: sad
+      sprite: {fileID: 21300000, guid: b169ca66353295747b69f74b0d58adb4, type: 3}
+    - emotion: angry
+      sprite: {fileID: 21300000, guid: a77cf70bb881d77489fd53fda7dfa1d9, type: 3}
+    - emotion: serious
+      sprite: {fileID: 21300000, guid: 509a2375b05628e40bc4eff7af0a831e, type: 3}
+    - emotion: disappointed
+      sprite: {fileID: 21300000, guid: b169ca66353295747b69f74b0d58adb4, type: 3}
+    - emotion: thinking
+      sprite: {fileID: 21300000, guid: ba42557de36237d4da07bf7f5a1cbd90, type: 3}
+    - emotion: surprised
+      sprite: {fileID: 21300000, guid: ba42557de36237d4da07bf7f5a1cbd90, type: 3}
+    - emotion: screaming
+      sprite: {fileID: 21300000, guid: 642b372828c5df44b9864e40156da6c1, type: 3}
+  voicesFMOD: event:/Speach/Chicken/SpeachOld
+  punctuationsFMOD: event:/Speach/Chicken/SpeachOld

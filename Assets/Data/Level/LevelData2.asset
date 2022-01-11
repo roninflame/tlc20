@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d730ff1cc414f6048a064d81c1ab3177, type: 3}
+  m_Name: LevelData2
+  m_EditorClassIdentifier: 
+  levelData:
+  - asteroidList:
+    - {fileID: 11400000, guid: 5866f9b5a10db9243b11ea0109249b38, type: 2}
+    - {fileID: 11400000, guid: b6034341d49fbf44fa114d1dd4458014, type: 2}
+    - {fileID: 11400000, guid: 72fd35f1fa51a684c8c828e4f5059240, type: 2}
+    - {fileID: 11400000, guid: 9bac884896c1ed5468ba4850c7b8ff5c, type: 2}
+    spaceCraftList:
+    - {fileID: 11400000, guid: cb0ccd4591a1085429f758ccf263f559, type: 2}
+    - {fileID: 11400000, guid: bd298386e8093cd498f5bdaa33a66425, type: 2}
+    - {fileID: 11400000, guid: 3d6f1ea1ff30f234195e4bf0aaa4abd8, type: 2}
+    - {fileID: 11400000, guid: d5aa17e419854ed4eb1ef6b35e35824f, type: 2}
+    - {fileID: 11400000, guid: c221712b495fadb4faf8385d9ea7ce4d, type: 2}
+    - {fileID: 11400000, guid: f8d41fd1f21515c42979edb5a021f1c0, type: 2}
+    - {fileID: 11400000, guid: e42c33645d4e53844ab67e3d60ea2091, type: 2}
+    cherubimList:
+    - {fileID: 11400000, guid: 9b00b55b016016b4d9340bc2c5af3a32, type: 2}
+    itemList:
+    - {fileID: 11400000, guid: 7b5f6b20877f0ec43828150ef63b37a1, type: 2}
+    - {fileID: 11400000, guid: ee12808e909c1b5488a090164b105830, type: 2}
+    weaponItemList:
+    - {fileID: 11400000, guid: 5a0689b1ed8c3c14ea8f6849b3f0ba99, type: 2}
+    - {fileID: 11400000, guid: 0f768c14039108049be34fb54f95f838, type: 2}
+    characterItemList:
+    - {fileID: 11400000, guid: 4eacc527097802542ab442fca9e0b830, type: 2}
+    effectList:
+    - {fileID: 11400000, guid: 6fb943ea25285884dbae1bc8aacada78, type: 2}
+    - {fileID: 11400000, guid: 301d9f0032d5a154691300b16d68d157, type: 2}
+    - {fileID: 11400000, guid: 2012b096e4159d9478e0f98bd23ab657, type: 2}
+  playerData:
+    projectileList:
+    - {fileID: 11400000, guid: 3d1de2fa337c47344aa6fa3d7d1ec624, type: 2}
+    - {fileID: 11400000, guid: 84eb51dd2615f04419218bda0ca8d1e1, type: 2}
+    laserList:
+    - {fileID: 11400000, guid: b3e723d1391bbb247b1e058eac3ab078, type: 2}
+  weaponData:
+    projectileList:
+    - {fileID: 11400000, guid: b1ba854f6c54918449587f2eb8e6dd21, type: 2}
+    - {fileID: 11400000, guid: ea3d91f959c284a41982c749ddd08755, type: 2}
+    - {fileID: 11400000, guid: 89572c75d04032840a4f14e25ee2c34b, type: 2}
+    - {fileID: 11400000, guid: 1349a793d4f36884bb5e9301a760e66d, type: 2}
+    - {fileID: 11400000, guid: ef28f750561854a4988d72ba4eca4a9a, type: 2}
+    laserList:
+    - {fileID: 11400000, guid: b9b48335491cc894f8c0b34e7dfad2a1, type: 2}
+    - {fileID: 11400000, guid: 8dc85e263ed817440b2c1e38603727ea, type: 2}
+  patternData:
+    attackPatterns:
+    - {fileID: 11400000, guid: 7a648a552b417f24a8d3aa7fff28ae86, type: 2}
+    - {fileID: 11400000, guid: a5c81abb57091c2488f0bbb8a72c30ad, type: 2}
+    - {fileID: 11400000, guid: 7d9e4ac3c8d3d7a4da75f07adb202658, type: 2}
+    - {fileID: 11400000, guid: 2c793b1e35ddcd04f84d04e6d0760e00, type: 2}
+    - {fileID: 11400000, guid: 320edbbf663a7154bb76f0b82335511f, type: 2}
+    - {fileID: 11400000, guid: 5da9034b48dc8e148b191da83e98f387, type: 2}
+    - {fileID: 11400000, guid: 36065517fe312dc4a9678bfe05b91f38, type: 2}
+    - {fileID: 11400000, guid: 36065517fe312dc4a9678bfe05b91f38, type: 2}
+    - {fileID: 11400000, guid: b00c8776b76101f4480a2f0cb06427e0, type: 2}
